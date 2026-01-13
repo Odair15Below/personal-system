@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "personal-system",
+      "name": "📊 Personal System"
+    },
+    {
+      "path": "path/to/your/projects",
+      "name": "💻 Projects"
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "markdown.preview.breaks": true,
+    "todo-tree.general.tags": [
+      "TODO",
+      "FIXME",
+      "[ ]"
+    ]
+  }
+}
